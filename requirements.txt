@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+openai
+playwright
+faiss-cpu
+python-dotenv
